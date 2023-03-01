@@ -1,0 +1,44 @@
+
+
+body {
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: 'Arial', sans-serif; 
+    color: #9b0493;    
+        }
+
+
+h1 {
+	text-align: center;
+	 
+  }
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	border: 10px solid rgb(64, 120, 114);
+	padding:20px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 10px;
+	font-weight: bold;
+	color: rgb(17, 46, 126);
+}
+
+h4{
+	font-family: 'Roboto', sans-serif;
+	padding:20px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 10px;
+	font-weight: bold;
+	color: rgb(190, 119, 24);
+}
+
+p{
+	text-align: justify;
+
+}
+    
